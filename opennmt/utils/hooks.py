@@ -1,5 +1,6 @@
 """Custom hooks."""
 
+import io
 from __future__ import print_function
 import io
 
